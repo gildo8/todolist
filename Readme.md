@@ -1,7 +1,7 @@
 # TODOLIST APP
 A very simple TODOLIST app.
 <br>
-Created using a course from UDEMY.
+Created using a FullStack course from UDEMY.
 <br>
 You can see the app in action on the website:
 <br>
